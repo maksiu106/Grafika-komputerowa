@@ -1,0 +1,21 @@
+#header {
+  color: black;
+  text-align: center;
+  font-size: 40px;
+}
+
+#cvs {
+	margin: 0 auto;
+	display: block;
+}
+
+.btn-class {
+	font-size: 40px;
+	background-color: grey;
+	padding: 30px;
+	/*wyśrodkowujemy poniżej*/
+	margin: auto;
+	max-width: 180px;
+	/*pozwala zapewnić krzywiznę na rogach*/
+	border-radius: 15px;
+}
